@@ -23,8 +23,7 @@ TaskFlow is a modern and responsive To-Do List web application built using HTML,
 ---
 
 ##  Screenshot
-
-> Screenshot coming soon...
+![TaskFlow](images/taskflow.png)
 
 ---
 
